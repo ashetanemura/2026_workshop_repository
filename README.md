@@ -1,2 +1,2 @@
 # 2026_workshop_repository
-Repository for python workshop summer 2026
+This is my first repository for practicing a GitHub workflow
